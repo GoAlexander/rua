@@ -1,0 +1,181 @@
+2016-07-19.23:36:43
+%Cpu(s): 54.3 us,  8.9 sy,  0.1 ni, 35.7 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   861364 used,  4380488 free.   975332 cached Mem
+%Cpu(s):  1.4 us,  0.3 sy,  0.2 ni, 97.9 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Swap:  5241852 total,   861364 used,  4380488 free.   974856 cached Mem
+2016-07-19.23:36:56
+%Cpu(s): 54.3 us,  8.9 sy,  0.1 ni, 35.7 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   861364 used,  4380488 free.   975956 cached Mem
+%Cpu(s):  3.3 us,  0.8 sy,  0.3 ni, 95.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Swap:  5241852 total,   861364 used,  4380488 free.   975956 cached Mem
+2016-07-19.23:37:09
+%Cpu(s): 54.3 us,  8.9 sy,  0.1 ni, 35.7 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   860108 used,  4381744 free.   976396 cached Mem
+%Cpu(s):  4.1 us,  1.5 sy,  0.3 ni, 91.7 id,  2.4 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Swap:  5241852 total,   859884 used,  4381968 free.   977304 cached Mem
+2016-07-19.23:37:22
+%Cpu(s): 54.3 us,  8.9 sy,  0.1 ni, 35.7 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   859880 used,  4381972 free.   987296 cached Mem
+%Cpu(s):  5.0 us,  1.3 sy,  0.2 ni, 92.9 id,  0.5 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Swap:  5241852 total,   859572 used,  4382280 free.   987252 cached Mem
+2016-07-19.23:37:36
+%Cpu(s): 54.2 us,  8.9 sy,  0.1 ni, 35.7 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   859524 used,  4382328 free.   987288 cached Mem
+%Cpu(s):  0.9 us,  0.4 sy,  0.3 ni, 98.3 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Swap:  5241852 total,   859524 used,  4382328 free.   987296 cached Mem
+2016-07-19.23:37:49
+%Cpu(s): 54.2 us,  8.9 sy,  0.1 ni, 35.8 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   859280 used,  4382572 free.   988236 cached Mem
+%Cpu(s):  6.7 us,  1.5 sy,  0.2 ni, 91.3 id,  0.2 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Swap:  5241852 total,   859164 used,  4382688 free.   988232 cached Mem
+2016-07-19.23:38:02
+%Cpu(s): 54.2 us,  8.9 sy,  0.1 ni, 35.8 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856724 used,  4385128 free.  1076924 cached Mem
+%Cpu(s): 11.2 us,  3.0 sy,  0.2 ni, 84.1 id,  1.5 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Swap:  5241852 total,   856660 used,  4385192 free.  1086056 cached Mem
+2016-07-19.23:38:15
+%Cpu(s): 54.2 us,  8.9 sy,  0.1 ni, 35.8 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856652 used,  4385200 free.  1302420 cached Mem
+%Cpu(s):  2.0 us,  0.7 sy,  0.2 ni, 86.3 id, 10.7 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Swap:  5241852 total,   856652 used,  4385200 free.  1418432 cached Mem
+2016-07-19.23:38:28
+%Cpu(s): 54.2 us,  8.9 sy,  0.1 ni, 35.8 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856648 used,  4385204 free.  1479264 cached Mem
+%Cpu(s): 20.9 us,  5.4 sy,  0.3 ni, 68.2 id,  5.0 wa,  0.0 hi,  0.2 si,  0.0 st
+KiB Swap:  5241852 total,   856648 used,  4385204 free.  1490516 cached Mem
+2016-07-19.23:38:42
+%Cpu(s): 54.2 us,  8.9 sy,  0.1 ni, 35.8 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856648 used,  4385204 free.  1306072 cached Mem
+%Cpu(s): 33.0 us,  7.0 sy,  0.3 ni, 59.5 id,  0.0 wa,  0.0 hi,  0.2 si,  0.0 st
+KiB Swap:  5241852 total,   856644 used,  4385208 free.  1302488 cached Mem
+2016-07-19.23:38:55
+%Cpu(s): 54.2 us,  8.9 sy,  0.1 ni, 35.8 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856644 used,  4385208 free.  1325104 cached Mem
+%Cpu(s): 36.8 us,  7.0 sy,  0.4 ni, 55.5 id,  0.2 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Swap:  5241852 total,   856644 used,  4385208 free.  1325100 cached Mem
+2016-07-19.23:39:08
+%Cpu(s): 54.2 us,  8.9 sy,  0.1 ni, 35.8 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856644 used,  4385208 free.  1401916 cached Mem
+%Cpu(s): 10.6 us,  1.3 sy,  0.2 ni, 85.0 id,  2.9 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Swap:  5241852 total,   856644 used,  4385208 free.  1368552 cached Mem
+2016-07-19.23:39:21
+%Cpu(s): 54.2 us,  8.9 sy,  0.1 ni, 35.8 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856652 used,  4385200 free.  1172948 cached Mem
+%Cpu(s): 10.7 us,  3.2 sy,  0.3 ni, 79.5 id,  6.4 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Swap:  5241852 total,   856652 used,  4385200 free.  1070516 cached Mem
+2016-07-19.23:39:35
+%Cpu(s): 54.2 us,  8.9 sy,  0.1 ni, 35.8 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856420 used,  4385432 free.   939600 cached Mem
+%Cpu(s): 10.3 us,  2.4 sy,  0.2 ni, 82.3 id,  4.7 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Swap:  5241852 total,   856404 used,  4385448 free.   962880 cached Mem
+2016-07-19.23:39:48
+%Cpu(s): 54.2 us,  8.9 sy,  0.1 ni, 35.8 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856464 used,  4385388 free.   979736 cached Mem
+%Cpu(s): 27.6 us,  6.1 sy,  0.3 ni, 65.5 id,  0.3 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Swap:  5241852 total,   856464 used,  4385388 free.   987332 cached Mem
+2016-07-19.23:40:01
+%Cpu(s): 54.2 us,  8.9 sy,  0.1 ni, 35.8 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856464 used,  4385388 free.   996408 cached Mem
+%Cpu(s): 28.0 us,  5.3 sy,  0.4 ni, 65.9 id,  0.5 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Swap:  5241852 total,   856448 used,  4385404 free.   998360 cached Mem
+2016-07-19.23:40:14
+%Cpu(s): 54.2 us,  8.9 sy,  0.1 ni, 35.8 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856448 used,  4385404 free.   998540 cached Mem
+%Cpu(s): 25.4 us,  5.4 sy,  0.3 ni, 68.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Swap:  5241852 total,   856444 used,  4385408 free.   998552 cached Mem
+2016-07-19.23:40:28
+%Cpu(s): 54.1 us,  8.9 sy,  0.1 ni, 35.8 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856436 used,  4385416 free.  1002000 cached Mem
+%Cpu(s): 26.3 us,  5.2 sy,  0.5 ni, 67.8 id,  0.2 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Swap:  5241852 total,   856428 used,  4385424 free.  1003772 cached Mem
+2016-07-19.23:40:41
+%Cpu(s): 54.1 us,  8.9 sy,  0.1 ni, 35.9 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856428 used,  4385424 free.  1006116 cached Mem
+%Cpu(s): 26.4 us,  5.8 sy,  0.4 ni, 67.2 id,  0.2 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Swap:  5241852 total,   856428 used,  4385424 free.  1007564 cached Mem
+2016-07-19.23:40:54
+%Cpu(s): 54.1 us,  8.9 sy,  0.1 ni, 35.9 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856428 used,  4385424 free.  1008100 cached Mem
+%Cpu(s): 26.3 us,  5.6 sy,  0.3 ni, 67.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Swap:  5241852 total,   856428 used,  4385424 free.  1008100 cached Mem
+2016-07-19.23:41:07
+%Cpu(s): 54.1 us,  8.9 sy,  0.1 ni, 35.9 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856428 used,  4385424 free.   982304 cached Mem
+%Cpu(s): 26.9 us,  5.5 sy,  0.3 ni, 67.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Swap:  5241852 total,   856428 used,  4385424 free.   982348 cached Mem
+2016-07-19.23:41:20
+%Cpu(s): 54.1 us,  8.9 sy,  0.1 ni, 35.9 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856424 used,  4385428 free.   982348 cached Mem
+%Cpu(s): 25.4 us,  4.9 sy,  0.3 ni, 69.3 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Swap:  5241852 total,   856424 used,  4385428 free.   982348 cached Mem
+2016-07-19.23:41:34
+%Cpu(s): 54.1 us,  8.9 sy,  0.1 ni, 35.9 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856452 used,  4385400 free.   980544 cached Mem
+%Cpu(s): 25.9 us,  5.6 sy,  0.3 ni, 67.8 id,  0.4 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Swap:  5241852 total,   856504 used,  4385348 free.   975360 cached Mem
+2016-07-19.23:41:47
+%Cpu(s): 54.1 us,  8.9 sy,  0.1 ni, 35.9 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856504 used,  4385348 free.   972672 cached Mem
+%Cpu(s): 26.8 us,  5.0 sy,  0.3 ni, 67.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Swap:  5241852 total,   856504 used,  4385348 free.   972680 cached Mem
+2016-07-19.23:42:00
+%Cpu(s): 54.1 us,  8.9 sy,  0.1 ni, 35.9 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856504 used,  4385348 free.   976572 cached Mem
+%Cpu(s): 27.1 us,  5.2 sy,  0.3 ni, 67.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Swap:  5241852 total,   856504 used,  4385348 free.   976672 cached Mem
+2016-07-19.23:42:13
+%Cpu(s): 54.1 us,  8.9 sy,  0.1 ni, 35.9 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856500 used,  4385352 free.   977964 cached Mem
+%Cpu(s): 26.3 us,  5.4 sy,  0.2 ni, 68.0 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Swap:  5241852 total,   856500 used,  4385352 free.   978216 cached Mem
+2016-07-19.23:42:26
+%Cpu(s): 54.1 us,  8.9 sy,  0.1 ni, 35.9 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856500 used,  4385352 free.   984196 cached Mem
+%Cpu(s): 27.3 us,  4.9 sy,  0.3 ni, 67.2 id,  0.2 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Swap:  5241852 total,   856500 used,  4385352 free.   986312 cached Mem
+2016-07-19.23:42:40
+%Cpu(s): 54.1 us,  8.9 sy,  0.1 ni, 35.9 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856500 used,  4385352 free.   988388 cached Mem
+%Cpu(s): 26.6 us,  5.6 sy,  0.4 ni, 67.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Swap:  5241852 total,   856500 used,  4385352 free.   988456 cached Mem
+2016-07-19.23:42:53
+%Cpu(s): 54.1 us,  8.9 sy,  0.1 ni, 35.9 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856532 used,  4385320 free.   990564 cached Mem
+%Cpu(s): 26.7 us,  4.2 sy,  0.3 ni, 68.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Swap:  5241852 total,   856532 used,  4385320 free.   991652 cached Mem
+2016-07-19.23:43:06
+%Cpu(s): 54.1 us,  8.9 sy,  0.1 ni, 35.9 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856532 used,  4385320 free.   992060 cached Mem
+%Cpu(s): 26.2 us,  5.6 sy,  0.4 ni, 67.6 id,  0.2 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Swap:  5241852 total,   856532 used,  4385320 free.   992060 cached Mem
+2016-07-19.23:43:19
+%Cpu(s): 54.1 us,  8.9 sy,  0.1 ni, 35.9 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856532 used,  4385320 free.   992336 cached Mem
+%Cpu(s): 26.9 us,  5.4 sy,  0.3 ni, 67.3 id,  0.1 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Swap:  5241852 total,   856528 used,  4385324 free.   992476 cached Mem
+2016-07-19.23:43:32
+%Cpu(s): 54.1 us,  8.9 sy,  0.1 ni, 35.9 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856528 used,  4385324 free.   995952 cached Mem
+%Cpu(s): 26.5 us,  5.3 sy,  0.3 ni, 67.8 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Swap:  5241852 total,   856528 used,  4385324 free.   995952 cached Mem
+2016-07-19.23:43:46
+%Cpu(s): 54.1 us,  8.9 sy,  0.1 ni, 35.9 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856524 used,  4385328 free.   996016 cached Mem
+%Cpu(s): 27.8 us,  5.0 sy,  0.3 ni, 66.9 id,  0.1 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Swap:  5241852 total,   856524 used,  4385328 free.   996076 cached Mem
+2016-07-19.23:43:59
+%Cpu(s): 54.1 us,  8.9 sy,  0.1 ni, 36.0 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856524 used,  4385328 free.   997332 cached Mem
+%Cpu(s): 25.3 us,  4.7 sy,  0.3 ni, 69.6 id,  0.2 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Swap:  5241852 total,   856524 used,  4385328 free.   999560 cached Mem
+2016-07-19.23:44:12
+%Cpu(s): 54.0 us,  8.9 sy,  0.1 ni, 36.0 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   856524 used,  4385328 free.  1003460 cached Mem
+%Cpu(s): 13.8 us,  1.3 sy,  0.3 ni, 83.8 id,  0.8 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Swap:  5241852 total,   856524 used,  4385328 free.  1012480 cached Mem
+2016-07-19.23:44:25
+%Cpu(s): 54.0 us,  8.9 sy,  0.1 ni, 36.0 id,  0.5 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Swap:  5241852 total,   858644 used,  4383208 free.   993468 cached Mem
+%Cpu(s): 22.0 us,  9.8 sy,  0.3 ni, 66.4 id,  1.5 wa,  0.0 hi,  0.1 si,  0.0 st
+KiB Swap:  5241852 total,   858576 used,  4383276 free.   994852 cached Mem
+2016-07-19.23:44:38

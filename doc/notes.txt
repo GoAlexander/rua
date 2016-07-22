@@ -1,0 +1,30 @@
+Some notes about app and OS:
+
+[MAKE IT .md !]
+
+Good links:
+https://habrahabr.ru/company/host-tracker/blog/220413/
+http://rus-linux.net/MyLDP/consol/komanda-top-v-linux.html
+https://www.howtoforge.com/extract-values-from-top-and-plot-them
+
+egrep
+I/O wait (%wa)
+ Если значение IO Wait стабильно превышает {100 / (кол-во CPU * кол-во процессов)}%, это означает, что, возможно, имеется проблема хранения, с которой необходимо разобраться. Если вы наблюдаете высокую среднюю нагрузку, прежде всего, проверьте этот параметр. Если он высок, тогда узкое место в процессах, скапливающихся на диске, а не в чем-либо еще.
+
+
+-----
+Альтернативы `top`:
+mpstat -P ALL 1 # получу информацию по процессору и по ядрам
+mpstat -P ALL 2 5 # Display five reports of statistics for all processors at two second intervals.
+
+-----
+About `proc/stat`:
+What are those numbers?
+https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk65143
+
+-----
+Разное:
+
+//top + W -> /home/user/.toprc
+//system("cat /proc/stat | grep cpu"); //с этим еще нужно научиться работать... См. статью...
+//cat /proc/stat | grep cpu
